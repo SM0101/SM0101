@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SM0101
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning Enterprise Systems Analysis & Design-C#.NET
 
 
 <!---
