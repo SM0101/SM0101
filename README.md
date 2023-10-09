@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @SM0101
-- 🌱 I’m currently learning Enterprise Systems Analysis & Design-C#.NET
+- 👋 Hi, I’m Sayed Minhajur Rahman
+- @SM0101
+- 🌱 Have a Diploma in Enterprise Systems Analysis & Design-with C#.NET From IsDB-BISEW Scholarship.
+- Interested in learning new things specially about programming.
 
 
 <!---
